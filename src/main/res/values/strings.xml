@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mobile Assignment 2</string>
+
+    <string name="next">Next</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="button">Location</string>
+    <string name="latitude">0</string>
+    <string name="longitude">0</string>
+    <string name="enter_latitude">Enter Latitude</string>
+    <string name="enter_longitude">Enter Longitude</string>
+    <string name="insert">Insert</string>
+    <string name="check">Check</string>
+    <string name="address">Enter Address</string>
+    <string name="search">Search</string>
+    <string name="addressHint">Enter Address</string>
+</resources>
